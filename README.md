@@ -1,4 +1,4 @@
-**COMP0015: Introduction to Programming** is a course ran at UCL, department of computer science. Students have been suffered from the poor teaching quality and irresponsible actions by the lecturer -- Dr Rae Harbird.
+**COMP0015: Introduction to Programming** is a course at UCL, department of computer science. Students have been suffered from the poor teaching quality and irresponsible actions by the lecturer -- Dr Rae Harbird.
 
 ---
 Here are some examples of how she responded to students' emails:
